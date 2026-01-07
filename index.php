@@ -89,7 +89,7 @@
 
                 <div class="info-block">
                     <small>EMAIL</small>
-                    <p>ramydhiya86@gmail.com</p>
+                    <p>emailcuy@gmail.com</p>
                 </div>
 
                 <div class="info-block">
@@ -104,7 +104,7 @@
 
                 <!-- SOSIAL MEDIA -->
                 <div class="social-links">
-                    <a href="https://www.instagram.com/ramydhiya/" target="_blank" class="social-link">
+                    <a href="https://www.instagram.com/ig/" target="_blank" class="social-link">
                         <i class="fab fa-instagram"></i>
                     </a>
                     <a href="#" target="_blank" class="social-link">
